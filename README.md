@@ -11,11 +11,6 @@
 - **Cloud & Big Data:** AWS (S3, Lambda, SageMaker), MongoDB, Kubernetes, Docker  
 - **Web Development:** HTML, CSS, JavaScript, AngularJS  
 
-## 📌 Featured Projects  
-🔹 [Titanic Survival Prediction](https://github.com/DST-NDIAYE/titanic-aws) - **AWS-based ML Pipeline** (SageMaker, Lambda, S3)  
-🔹 [Real-Time Data Dashboard](https://github.com/DST-NDIAYE/streamlit-dashboard) - **Python, MongoDB, Streamlit**  
-🔹 [R Shiny App for Data Analysis](https://github.com/DST-NDIAYE/shiny-analytics) - **Interactive ML & Data Viz**  
-
 ## 🤝 Let's Connect!  
 📧 **Email:** dstndiaye@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/dst-ndiaye](https://www.linkedin.com/in/dst-ndiaye/)  
