@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Serigne Bassirou Ndiaye (DST-NDIAYE)  
+# 👋 Hello, I'm Serigne Bassirou Ndiaye   
 
 ## 🚀 About Me  
 🎓 **Master's Student** in Machine Learning for Data Science (MLSD) at **Université Paris Cité**  
